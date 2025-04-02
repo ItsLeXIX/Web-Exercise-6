@@ -1,0 +1,15 @@
+{
+  "name": "templateexercise5",
+  "version": "1.0.0",
+  "description": "## **Objective** The goal of this exercise is to **refactor the JavaScript-based Piano Game into TypeScript** by adding type annotations, defining interfaces, and setting up a TypeScript configuration file. By the end of this exercise, students will better understand **type safety, improved code structure, and maintainability** using TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
