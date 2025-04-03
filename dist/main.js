@@ -72,7 +72,7 @@ function showQuestion() {
         btn.className = 'btn btn-outline-primary btn-block';
         btn.innerText = String(opt);
         btn.onclick = () => {
-            selectedOption = JSON.parse(btn.innerText);
+            selectedOption = btn.innerText;
             nextBtn.disabled = false;
             document.querySelectorAll('#options-container button').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');

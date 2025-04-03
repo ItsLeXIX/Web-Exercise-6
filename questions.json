@@ -1,9 +1,212 @@
 [
   {
-    "category": "Math",
-    "question": "What is 2 + 2?",
-    "options": [2, 3, 4, 5],
-    "answer": 4,
+    "category": "Internet",
+    "question": "What is the abbreviation for 'World Wide Web'?",
+    "options": ["WWW", "W3", "Web"],
+    "answer": "WWW",
     "difficulty": "easy"
+  },
+  {
+    "category": "Operating Systems",
+    "question": "Which is the most well-known operating system for PCs?",
+    "options": ["Windows", "Linux", "macOS"],
+    "answer": "Windows",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Internet",
+    "question": "What is a 'browser'?",
+    "options": ["A program to view websites", "A hardware component in a computer", "A device for printing documents"],
+    "answer": "A program to view websites",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Internet",
+    "question": "What does 'URL' stand for?",
+    "options": ["Uniform Resource Locator", "Universal Retrieval Link", "Unified Router Location"],
+    "answer": "Uniform Resource Locator",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Internet",
+    "question": "Which symbol is commonly used in email addresses?",
+    "options": ["@", "#", "&"],
+    "answer": "@",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Security",
+    "question": "What is a 'password'?",
+    "options": ["A secret string of characters for authentication", "A public key for access", "A hardware protection mechanism"],
+    "answer": "A secret string of characters for authentication",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Basics",
+    "question": "What is 'hardware'?",
+    "options": ["The physical parts of a computer", "The software of a computer", "The users of the computer"],
+    "answer": "The physical parts of a computer",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Basics",
+    "question": "What is 'software'?",
+    "options": ["The programs and data that run on a computer", "The physical parts of a computer", "The network connections of the computer"],
+    "answer": "The programs and data that run on a computer",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Internet",
+    "question": "What is the internet?",
+    "options": ["A worldwide network of computers", "A single computer", "A software application"],
+    "answer": "A worldwide network of computers",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Networks",
+    "question": "What is a 'server'?",
+    "options": ["A computer that provides services to other computers", "A computer used only for gaming", "A portable computer"],
+    "answer": "A computer that provides services to other computers",
+    "difficulty": "easy"
+  },
+  {
+    "category": "Hardware",
+    "question": "What is 'RAM'?",
+    "options": ["Random Access Memory", "Read Only Memory", "Really Advanced Machine"],
+    "answer": "Random Access Memory",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Hardware",
+    "question": "What is 'CPU'?",
+    "options": ["Central Processing Unit", "Computer Programming Unit", "Common Protocol Utility"],
+    "answer": "Central Processing Unit",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Basics",
+    "question": "What is a 'file'?",
+    "options": ["A collection of data stored under a name", "A physical part of the computer", "A program for file management"],
+    "answer": "A collection of data stored under a name",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Basics",
+    "question": "What is a 'folder' (or 'directory')?",
+    "options": ["A container for organizing files and other folders", "A single file", "A program for opening files"],
+    "answer": "A container for organizing files and other folders",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Internet",
+    "question": "What is a 'link' (or 'hyperlink')?",
+    "options": ["A reference to another webpage or resource", "A physical cable that connects computers", "An error in a program"],
+    "answer": "A reference to another webpage or resource",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Networks",
+    "question": "What is 'WLAN'?",
+    "options": ["Wireless Local Area Network", "Wired Local Area Network", "Wideband Line Access Node"],
+    "answer": "Wireless Local Area Network",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Networks",
+    "question": "What is a 'router'?",
+    "options": ["A device that forwards data between networks", "A device for viewing websites", "A device for storing files"],
+    "answer": "A device that forwards data between networks",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Security",
+    "question": "What is a 'firewall'?",
+    "options": ["A security system that prevents unauthorized access to a network", "Software to speed up the internet", "A physical protection for computers"],
+    "answer": "A security system that prevents unauthorized access to a network",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Cloud",
+    "question": "What is 'Cloud Computing'?",
+    "options": ["The delivery of IT services over the internet", "Storing data on a local hard drive", "Using old computers"],
+    "answer": "The delivery of IT services over the internet",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Software",
+    "question": "What is an 'update'?",
+    "options": ["A new or improved version of software", "Deleting files", "Shutting down the computer"],
+    "answer": "A new or improved version of software",
+    "difficulty": "medium"
+  },
+  {
+    "category": "Software Development",
+    "question": "What is a 'bug'?",
+    "options": ["An error in a computer program", "A small insect inside the computer", "A feature of a software"],
+    "answer": "An error in a computer program",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Internet",
+    "question": "What is 'E-mail'?",
+    "options": ["Electronic mail", "A physical letter", "A voice message"],
+    "answer": "Electronic mail",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Security",
+    "question": "What is a 'virus'?",
+    "options": ["A malicious program that can self-replicate", "A useful software tool", "A hardware defect"],
+    "answer": "A malicious program that can self-replicate",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Hardware",
+    "question": "What is 'Bluetooth'?",
+    "options": ["A technology for short-range wireless communication", "A technology for wired network connections", "Software for file compression"],
+    "answer": "A technology for short-range wireless communication",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Basics",
+    "question": "What is a 'screenshot'?",
+    "options": ["An image of the current screen content", "A physical photo of a computer", "A video recording of the screen"],
+    "answer": "An image of the current screen content",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Internet",
+    "question": "What is a 'download'?",
+    "options": ["Downloading data from the internet to your own computer", "Uploading data to the internet", "Deleting data"],
+    "answer": "Downloading data from the internet to your own computer",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Internet",
+    "question": "What is an 'upload'?",
+    "options": ["Uploading data from your own computer to the internet", "Downloading data from the internet", "Moving files on the hard drive"],
+    "answer": "Uploading data from your own computer to the internet",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Internet",
+    "question": "What is a 'Podcast'?",
+    "options": ["A series of audio or video files available online", "A physical device for playing music", "Software for audio editing"],
+    "answer": "A series of audio or video files available online",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Internet",
+    "question": "What is 'Streaming'?",
+    "options": ["Watching or listening to content in real-time over the internet without downloading it", "Downloading large files", "Creating backups"],
+    "answer": "Watching or listening to content in real-time over the internet without downloading it",
+    "difficulty": "hard"
+  },
+  {
+    "category": "Basics",
+    "question": "What is an 'Emoji'?",
+    "options": ["A small digital image or symbol used to express an idea or emotion", "A type of computer virus", "A command in a programming language"],
+    "answer": "A small digital image or symbol used to express an idea or emotion",
+    "difficulty": "hard"
   }
 ]
