@@ -1,7 +1,7 @@
 {
-  "name": "templateexercise5",
+  "name": "templateexercise6",
   "version": "1.0.0",
-  "description": "## **Objective** The goal of this exercise is to **refactor the JavaScript-based Piano Game into TypeScript** by adding type annotations, defining interfaces, and setting up a TypeScript configuration file. By the end of this exercise, students will better understand **type safety, improved code structure, and maintainability** using TypeScript.",
+  "description": "## **Objective** The goal of this exercise is to develop a **multiple-choice quiz application** using modular development principles in TypeScript. Each team consists of **6 students**, divided into **three 2-person subteams**. Each subteam will focus on one core module, and all six members will collaborate on the final integration.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
